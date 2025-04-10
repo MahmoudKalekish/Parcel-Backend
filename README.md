@@ -58,17 +58,20 @@ Built with a RESTful architecture, JWT security, Swagger documentation, and test
 ### 🔧 Option 1: Run Locally with Maven
 
 #### Requirements:
-- Java 17+
+- Java 21
 - MongoDB running on `localhost:27017`
 
 #### Steps:
 ```bash
 # Clone the project
-git clone https://github.com/<your-username>/parcel-backend.git
+git clone https://github.com/MahmoudKalekish/Parcel-Backend.git
 cd parcel-backend
 
 # Start MongoDB using Docker
 docker-compose up -d
+
+
+![image](https://github.com/user-attachments/assets/38b61e4d-b51e-40ec-989c-60f09ce57d77)
 
 
 # Build and run
