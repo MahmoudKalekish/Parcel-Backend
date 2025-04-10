@@ -61,6 +61,7 @@ Built with a RESTful architecture, JWT security, Swagger documentation, and test
 - Java 21
 - MongoDB running on `localhost:27017`
 
+![image](https://github.com/user-attachments/assets/38b61e4d-b51e-40ec-989c-60f09ce57d77)
 #### Steps:
 ```bash
 # Clone the project
@@ -69,9 +70,6 @@ cd parcel-backend
 
 # Start MongoDB using Docker
 docker-compose up -d
-
-
-![image](https://github.com/user-attachments/assets/38b61e4d-b51e-40ec-989c-60f09ce57d77)
 
 
 # Build and run
